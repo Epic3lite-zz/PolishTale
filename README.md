@@ -8,7 +8,7 @@ Warning: Spoilers (obviously!)
 I'm translating Undertale into Polish. Any help appreciated! :)
 
 ###Polski
-######Polskie Tłumaczenie Undertale
+#####Polskie Tłumaczenie Undertale
 - Używam tekst i obrazy z wersji 1.001
 
 Uwaga: Spoilery (oczywiście!)
