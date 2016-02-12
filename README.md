@@ -1,5 +1,16 @@
 # PolishTale
-#####Polish Translation of an Undertale stringdump
-######Using (Old?) stringdump before the v1.00001 update
+###English
+#####Polish Translation of Undertale
+ - Using stringdump and images from v1.001 update
 
-I'm translating a stringdump of undertale into polish. Any help appreciated! :)
+Warning: Spoilers (obviously!)
+
+I'm translating Undertale into Polish. Any help appreciated! :)
+
+###Polski
+######Polskie Tłumaczenie Undertale
+- Używam tekst i obrazy z wersji 1.001
+
+Uwaga: Spoilery (oczywiście!)
+
+Ja tłumacze Undertale na język polski. Każda pomoc jest mile widziana! :)
