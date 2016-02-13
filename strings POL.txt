@@ -37,19 +37,19 @@ monstertype
  B
  C
 i
-  * Spare
-& \W  * Flee
+  * Puśc
+& \W  * Uciekaj
 itemnameb
      
 item
 * 
  &
- &                     PAGE 1
- &                     PAGE 2
-* You recovered 
+ &                     STRONA 1
+ &                     STRONA 2
+* Ty odzyskałeś 
 string
  HP!/%
-* Your HP was maxed out./%
+* Twoje HP zostało wypełnione./%
 random
 round
 * You bid a quiet farewell&  to the 
@@ -133,13 +133,13 @@ gx
 * You have no items^1.&* You put a little time into&  the box./%%
 * You have no items^1.&* You put a little effort&  into the box./%%
 * You have no items^1.&* You put a little feeling&  into the box./%%
-\W* Howdy^2!&* I'm\Y FLOWEY\W.^2 &* \YFLOWEY\W the \YFLOWER\W!/
+\W* Cześć^2!&* Nazywam się\Y FLOWEY\W.^2 &* \YKWIATEK\W \YFLOWEY\W!/
 * Hmmm.../
-* You're new to the&  UNDERGROUND^2, aren'tcha?/
-* Golly^1, you must be&  so confused./
-* Someone ought to teach&  you how things work&  around here!/
-* I guess little old me&  will have to do./
-* Ready^2?&* Here we go!/%%
+* Jesteś nowy w&  PODZEIMIU^2, prawda?/
+* Jejku^1, ty pewnie jesteś&  tak zdezorientowany./
+* Ktoś powinien nauczyć&  cię, jak tutaj &  rzeczy działają!/
+* Myślę, że ja będę&  musiał to zrobić./
+* Gotowy^2?&* No to ruszamy!/%%
 \E2* This way./%%
 \E2* Welcome to your new&  home^1, innocent one./
 * Allow me to educate you&  in the operation of the&  RUINS./%%
@@ -2455,7 +2455,7 @@ Done
 bks_f
 string_delete
 keyboard_key_release
-Name the fallen human.
+Nazwij człowieka który spadł.
 iniread
 ini_section_exists
 minutes
