@@ -37,7 +37,7 @@ monstertype
  B
  C
 i
-  * Puśc
+  * Puść
 & \W  * Uciekaj
 itemnameb
      
@@ -52,33 +52,33 @@ string
 * Twoje HP zostało wypełnione./%
 random
 round
-* You bid a quiet farewell&  to the 
+* Mówisz ciche pożegnanie&  do 
 menucoord
 itemname
 .
-* You put the 
-&  on the ground and gave it a&  little pat.
-* You threw the 
-&  on the ground like the piece&  of trash it is.
-* You abandoned the &  
-* The 
- was&  thrown away.
+* Zostawiasz
+&  na podłodze  itrochę go&  klepkujesz.
+* Rzuciłeś 
+& jak śmieciem, którym po& prawdzie jest.
+* Ty porzuciłeś &  
+* 
+   zostało&   wyrzucone.
 /%
-   * I'm outta here.
-   * I've got better to do.
-   * Escaped...
-   * Don't slow me down.
+   * Spadam stąd.
+   * Mam lepsze rzeczy do&     robienia.
+   * Uciekłeś...
+   * Nie zwalniaj mnie.
 xpreward
 goldreward
-   * Ran away with 
- EXP&     and 
+   * Uciekłeś z
+ EXP&     i
  GOLD.
 room
-* (The shadow of the ruins&  looms above^1, filling you with&  determination.)/
-* (HP fully restored.)/%%
-* (Playfully crinkling through&  the leaves fills you with&  determination.)/
-* (Knowing the mouse might one&  day leave its hole and&  get the cheese...)/
-* (It fills you with&  determination.)/%%
+* (Cień ruinach wisie nad tobą,& i wypełnienia cię z& determinacją.)/
+* (HP w pełnię uzupełniona.)/%%
+* (Żartobliwie szeleszczenie&   przez liście wypełnia cię z&   determinacją.)/
+* (Wiedząc, że mysz pewnego dnia&   opuści swoją dziurę i weźmie&   ser ...)/
+* (To wypełnia cię z determinacją.)/%%
 * (Seeing such a cute^1, tidy&  house in the RUINS gives&  you determination.)/%%
 * Determination./%%
 * (The cold atmosphere of a&  new land... it fills you&  with determination.)/%%
