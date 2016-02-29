@@ -1,4 +1,9 @@
 # PolishTale
+|=================================================================|
+ 
+ |===== **I'm currently studying for exams so don't expect any content soon :)** ===|
+
+|=================================================================|
 ###English
 #####Polish Translation of Undertale
  - Using stringdump and images from v1.001 update
