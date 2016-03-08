@@ -1,7 +1,7 @@
 # PolishTale
 |=================================================================|
  
- |===== **I'm currently studying for exams so don't expect any content soon :)** ===|
+ |===== **I'm currently studying for exams so don't expect ~~any~~ much content soon :)** ===|
 
 |=================================================================|
 ###English
