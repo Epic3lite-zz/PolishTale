@@ -20,7 +20,7 @@ I reccommend using TranslaTale, which you can get from [here](https://github.com
 
 Uwaga: Spoilery (oczywiście!)
 
-Ja tłumacze Undertale na język polski. Każda pomoc jest mile widziana! :)
+Ja tłumacze Undertale na język polski. Dzięki za pomoc! :)
 
 Polecam używać TranslaTale, które można ściągać [tutaj](https://github.com/AlexWaveDiver/TranslaTale/releases)
 ######Sorki, ale strona po angielsku :(
